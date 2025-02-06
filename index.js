@@ -1,4 +1,3 @@
-import _ from "lodash";
+import printMessage from "./src/index";
 
-console.log('Hello, Hexlet!');
-console.log(_.last(['one', 'two']))
+printMessage();
